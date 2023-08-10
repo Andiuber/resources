@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Minecraftia-Regular';
-    src: url('https://github.com/Andiuber/resources/blob/ec1d785b1cbe602759a442bc672175d2f6b791ba/fonts/Minecraftia-Regular.ttf') format('truetype');
+    src: url('https://github.com/Andiuber/resources/blob/7bb16c6b434e8395ab4d1a5ad1ec936a23ca0e34/fonts/minecraft_font.ttf') format('truetype');
 }
 
 .entry-title a {
-    font-family: Minecraftia-Regular;
+    font-family: minecraft_font;
     display: block;
     color: #00ff22;
     font-size: 30px;

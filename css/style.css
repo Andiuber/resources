@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Minecraftia-Regular';
+    src: url(https://github.com/Andiuber/resources/raw/main/fonts/Minecraftia-Regular.ttf) format('truetype');
+}
+
+.entry-title a {
+    font-family: Minecraftia-Regular;
+    display: block;
+    color: var(--title-color);
+}
